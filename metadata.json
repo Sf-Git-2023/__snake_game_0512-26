@@ -1,0 +1,6 @@
+{
+  "name": "貪食蛇遊戲",
+  "description": "一個使用 React 和 TypeScript 構建的經典貪食蛇遊戲。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

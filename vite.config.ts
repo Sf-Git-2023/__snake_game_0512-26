@@ -4,7 +4,9 @@ import path from 'path';
 import {defineConfig} from 'vite';
 
 export default defineConfig({
+  base: '/__snake_game_0512-26/',
   plugins: [react(), tailwindcss()],
+
   resolve: {
     alias: {
       '@': path.resolve(__dirname, '.'),
